@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "nadako.vshaxe",
+        "ms-python.black-formatter",
+        "ms-vscode-remote.remote-containers",
+        "djsaunders1997.conda-wingman",
+        "jojoee.conda-cheatsheet",
+        "donjayamanne.python-environment-manager",
+        "corker.vscode-micromamba",
+        "run-ai.vscode-genv"
+    ]
+}
